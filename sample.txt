@@ -1,0 +1,3 @@
+ECHO is on.
+
+This text file is used for learning git
