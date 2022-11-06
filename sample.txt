@@ -1,9 +1,13 @@
 ECHO is on.
 
-This text file is used for learning git
 
-New git commands:
+html code.....⬇️
+<html>
+<head>
+</head>
+<body>
+<h1>This is heading tag-1</h1>
+</body>
+</html>
 
-1)git init
-2)git add
-3)git commit -m ''
+
